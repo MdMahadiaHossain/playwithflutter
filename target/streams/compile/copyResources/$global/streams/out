@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/conf/application.conf,/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/conf/logback.xml,/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/conf/messages,/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/target/scala-2.12/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/conf/routes,/mnt/CCA2B0E3A2B0D2E6/Lab/PlayFramework/playwithflutter/target/scala-2.12/classes/routes)[0m
